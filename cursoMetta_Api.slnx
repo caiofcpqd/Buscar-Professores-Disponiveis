@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="cursoMetta_Api/cursoMetta_Api.csproj" />
+  <Project Path="cursoMetta_Application/cursoMetta_Application.csproj" />
+  <Project Path="cursoMetta_Domain/cursoMetta_Domain.csproj" />
+  <Project Path="cursoMetta_Infrastructure/cursoMetta_Infrastructure.csproj" />
+  <Project Path="cursoMetta_Tests/cursoMetta_Tests.csproj" Id="379e67a5-5e81-4139-b153-b24c14cec77d" />
+</Solution>
